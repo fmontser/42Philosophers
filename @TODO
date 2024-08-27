@@ -1,0 +1,14 @@
+//TODO mejorar bloqueo print!! no permitir mas impresiones tras la que define el final.
+/*
+	# 1 800 200 200 The philosopher should not eat and should die
+	# 5 800 200 200 No philosopher should die
+	# 5 800 200 200 7 No philosopher should die and the simulation should stop when every philosopher has eaten at least 7 times
+	# 4 410 200 200 No philosopher should die
+	# 4 310 200 100 One philosopher should die
+*/
+
+//TODO 42 check
+//TODO Eval
+//TODO CleanUp
+//TODO Bonus
+//TODO Github
